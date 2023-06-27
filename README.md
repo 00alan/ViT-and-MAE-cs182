@@ -1,1 +1,1 @@
-# ViT-and-MAE-cs182
+# Implementing Vision Transformer and Masked Autoencoder. cs182
